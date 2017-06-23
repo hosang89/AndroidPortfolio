@@ -3,21 +3,7 @@
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
-##
-##############################################################################
-
-# Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
-DEFAULT_JVM_OPTS=""
-
-APP_NAME="Gradle"
-APP_BASE_NAME=`basename "$0"`
-
-# Use the maximum available, or set MAX_FD != -1 to use that value.
-MAX_FD="maximum"
-
-warn ( ) {
-    echo "$*"
-}
+123b131b2312b3123b123
 
 die ( ) {
     echo
